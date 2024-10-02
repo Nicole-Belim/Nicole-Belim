@@ -1,15 +1,6 @@
-*Olá, me chamo Nicole belim*
-![descriçaõ](https://i.pinimg.com/originals/e1/aa/c2/e1aac26212caca512e2f1e8f763e8b1c.gif)
+## *Olá, me chamo Nicole belim*
 
-- 👋 Hi, I’m @Nicole-Belim  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![descriçaõ](https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2023/01/02114557/cr7-champions-emprestimo.jpg)
 
-<!---
-Nicole-Belim/Nicole-Belim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+✨ Sou aluna do prefessor Richard de pensamento computacional, do colégio Dom Pedro II. Este é meu repositório para compartilhar meu projetos do java e outros. ✨ 💖
